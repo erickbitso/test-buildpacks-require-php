@@ -1,0 +1,7 @@
+api = "0.10"
+
+[buildpack]
+  id = "php-detect"
+  version = "0.0.1"
+  name = "PHP Detect Meta Buildpack"
+
